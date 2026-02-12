@@ -45,7 +45,7 @@ const WorkGrid: React.FC = () => {
       <div className="max-w-7xl mx-auto">
         <div className="mb-16">
           <h2 className="text-5xl md:text-7xl font-black font-heading tracking-tighter text-white uppercase leading-none mb-4">
-            my <span className="text-purple-500 italic lowercase">work</span>
+            my <span className="text-purple-500 italic lowercase">Portfolio</span>
           </h2>
           <p className="text-neutral-400 max-w-sm text-lg">
             High-impact visual solutions for global brands.

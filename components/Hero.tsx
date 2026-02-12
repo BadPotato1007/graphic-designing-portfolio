@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
               onClick={(e) => handleScroll(e, 'work')}
               className="group relative inline-flex items-center justify-center px-8 py-4 font-bold text-white transition-all duration-300 bg-purple-600 rounded-full hover:bg-purple-700 shadow-xl shadow-purple-950/20"
             >
-              View My Work
+              View My Portfolio
               <svg className="w-5 h-5 ml-2 transition-transform duration-300 group-hover:translate-y-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
               </svg>

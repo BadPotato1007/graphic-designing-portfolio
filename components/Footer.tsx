@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
                     onClick={(e) => handleScroll(e, '#work')}
                     className="text-white hover:text-purple-500 transition-colors text-lg"
                   >
-                    Work
+                    Portfolio
                   </a>
                 </li>
               </ul>
